@@ -43,7 +43,7 @@ Rectangle {
 
         AnimatedImage {
             id: face
-            source: "images/kuro_oled.gif"
+            source: "images/cat.gif"
             paused: false
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.verticalCenter: parent.verticalCenter
