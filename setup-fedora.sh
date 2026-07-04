@@ -22,8 +22,8 @@ sudo dnf install -y \
   tmux \
   vim \
   neovim \
-  gcc \
-  gcc-c++ \
+  clang \
+  clang-tools-extra \
   ripgrep \
   fd-find \
   make \
